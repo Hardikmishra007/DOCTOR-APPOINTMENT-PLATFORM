@@ -94,7 +94,7 @@ doctors-appointment-platform/
 
 ------------------------------------------------------------------------
 
-## 📸 Demo Photos
+## 📸 Demo
 
 
 <img width="1059" height="563" alt="Screenshot 2025-09-09 133457" src="https://github.com/user-attachments/assets/8f14881b-47c5-4d47-925e-41bc94d9eb13" />
