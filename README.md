@@ -126,4 +126,4 @@ doctors-appointment-platform/
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is open-sourced under the **MIT License** — feel free to use and adapt it!
