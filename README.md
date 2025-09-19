@@ -44,56 +44,6 @@ doctors-appointment-platform/
 
 ------------------------------------------------------------------------
 
-## ⚡ Installation & Setup
-
-1.  **Clone the repository**
-
-    ``` bash
-    git clone https://github.com/piyush-eon/doctors-appointment-platform.git
-    cd doctors-appointment-platform
-    ```
-
-2.  **Install dependencies**
-
-    -   For backend:
-
-        ``` bash
-        cd server
-        npm install
-        ```
-
-    -   For frontend:
-
-        ``` bash
-        cd client
-        npm install
-        ```
-
-3.  **Set up environment variables**\
-    Create a `.env` file in the `server` folder and add:
-
-        MONGO_URI=your_mongodb_connection_string
-        JWT_SECRET=your_secret_key
-        PORT=5000
-
-4.  **Run the project**
-
-    -   Start backend:
-
-        ``` bash
-        cd server
-        npm start
-        ```
-
-    -   Start frontend:
-
-        ``` bash
-        cd client
-        npm start
-        ```
-
-------------------------------------------------------------------------
-
 ## 📸 Demo
 
 
